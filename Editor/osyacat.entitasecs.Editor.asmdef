@@ -1,0 +1,18 @@
+{
+    "name": "osyacat.entitasecs.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c8c20baf139d82545b38d9d56f556aba"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

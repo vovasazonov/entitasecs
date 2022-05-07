@@ -1,0 +1,20 @@
+{
+  "name": "com.osyacat.entitasecs",
+  "version": "1.0.0",
+  "displayName": "Entitas Ecs",
+  "unity": "2021.2",
+  "dependencies": {
+    "com.osyacat.ecswrapper": "1.0.0"
+  },
+  "keywords": [
+    "ecs",
+    "library",
+    "utility",
+    "entitas"
+  ],
+  "author": {
+    "name": "Vladimir Sazonov",
+    "email": "vova.sazonovvv@gmail.com",
+    "url": "https://ticvote.com"
+  }
+}

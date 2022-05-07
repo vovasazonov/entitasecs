@@ -1,0 +1,42 @@
+{
+    "name": "osyacat.entitasecs",
+    "rootNamespace": "",
+    "references": [
+        "GUID:60b92f3c350caa1498a92077dc2347df"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Entitas.dll",
+        "Entitas.Unity.dll",
+        "Entitas.VisualDebugging.Unity.dll",
+        "DesperateDevs.Analytics.dll",
+        "DesperateDevs.CodeGeneration.CodeGenerator.Unity.Editor.dll",
+        "DesperateDevs.CodeGeneration.CodeGenerator.dll",
+        "DesperateDevs.CodeGeneration.dll",
+        "DesperateDevs.CodeGeneration.Plugins.dll",
+        "DesperateDevs.CodeGeneration.Unity.Plugins.dll",
+        "DesperateDevs.Logging.dll",
+        "DesperateDevs.Networking.dll",
+        "DesperateDevs.Serialization.dll",
+        "DesperateDevs.Unity.Editor.dll",
+        "DesperateDevs.Utils.dll",
+        "Entitas.CodeGeneration.Attributes.dll",
+        "Entitas.CodeGeneration.Plugins.dll",
+        "Entitas.Migration.dll",
+        "Entitas.Migration.Unity.Editor.dll",
+        "Entitas.Unity.Editor.dll",
+        "Entitas.VisualDebugging.CodeGeneration.Plugins.dll",
+        "Entitas.VisualDebugging.Unity.Editor.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
